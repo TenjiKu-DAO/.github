@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Members of team:
+1. Daisy
 <!--
 
 **Here are some ideas to get you started:**
